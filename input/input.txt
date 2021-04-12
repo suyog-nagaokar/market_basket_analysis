@@ -1,0 +1,7 @@
+input_file=txns75k.txt
+min_support_for_pass1=300
+min_support_for_pass2=300
+min_support_for_pass3=300
+pass1_op=/user/cloudera/market_basket_analysis/op75k/pass1
+pass2_op=/user/cloudera/market_basket_analysis/op75k/pass2
+pass3_op=/user/cloudera/market_basket_analysis/op75k/pass3
