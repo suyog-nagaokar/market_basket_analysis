@@ -1,7 +1,7 @@
 # market_basket_analysis
 Repository for Market Basket Analysis using Big Data
 
-This repository contains Pig and Spark code for market basket analysis, mainly used in retail domain.
+This repository contains Apache Pig for market basket analysis, mainly used in retail domain.
 The code aims at analyzing purchased items and generating insights from it which would cater to below points:
 
 1. Pass-1 Analysis --> Most bought product
